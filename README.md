@@ -1,4 +1,4 @@
-# scrimba-tailwind-basics-project
+<h1>Tailwind Blog Layout 📝🌟</h1>
 A <strong>minimalist and responsive blog layout</strong> built using <strong>Tailwind CSS</strong>, providing a sleek, modern design with seamless styling.
 <h2>✨ Features</h2>
 <ul>
